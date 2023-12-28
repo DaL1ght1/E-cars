@@ -27,7 +27,7 @@ Pour commencer avec l'Application de Location de Voitures, suivez ces étapes :
 3. Compilez et lancez l'application.
  
 #1-rechercher-des-voitures-disponibles
-Description : Cette fonction permet à l'utilisateur de rechercher des voitures disponibles pour la location. Elle pourrait afficher une liste de voitures qui ne sont pas actuellement louées.
+Description : Cette fonction permet à l'utilisateur de rechercher des voitures disponibles pour la location. Elle pourrait afficher une liste de voitures qui ne sont pas actuellement louées.\n
 #2-louer-une-voiture
 Description : Cette fonction permet à l'utilisateur de louer une voiture disponible. Elle pourrait impliquer la saisie des détails de la location tels que la date de début, la durée de location, etc. et l’ajout de nouveaux clients.
 #3-afficher-la-description-dune-voiture
