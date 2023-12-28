@@ -5,7 +5,7 @@ Cette documentation offre un aperçu et un guide d'utilisation pour l'Applicatio
 
 En effet cet application vous permet de :
 
-##1. Rechercher des voitures disponibles
+#1. Rechercher des voitures disponibles
 #2. Louer une voiture
 #3. Afficher la description d'une voiture
 #4. Supprimer une voiture en panne
