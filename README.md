@@ -42,7 +42,8 @@ Pour commencer avec l'Application de Location de Voitures, suivez ces étapes :
 1. Clonez le dépôt :
 
    ```bash
-   git clone https://github.com/DaL1ght1/E-cars.git   ```
+   git clone https://github.com/DaL1ght1/E-cars.git
+    ```
 
 2. Naviguez vers le répertoire du projet :
 
@@ -58,28 +59,28 @@ Pour commencer avec l'Application de Location de Voitures, suivez ces étapes :
 **Description : ** Cette fonction permet à l'utilisateur de rechercher des voitures disponibles pour la location. Elle pourrait afficher une liste de voitures qui ne sont pas actuellement louées.
 
 ##### 2. Louer une voiture
-**Description : ** Cette fonction permet à l'utilisateur de rechercher des voitures disponibles pour la location. Elle pourrait afficher une liste de voitures qui ne sont pas actuellement louées.
+****Description : **** Cette fonction permet à l'utilisateur de rechercher des voitures disponibles pour la location. Elle pourrait afficher une liste de voitures qui ne sont pas actuellement louées.
 
 ##### 3. Afficher la description d'une voiture
-**Description : ** Cette fonction permet à l'utilisateur de rechercher des voitures disponibles pour la location. Elle pourrait afficher une liste de voitures qui ne sont pas actuellement louées.
+****Description : **** Cette fonction permet à l'utilisateur de rechercher des voitures disponibles pour la location. Elle pourrait afficher une liste de voitures qui ne sont pas actuellement louées.
 
 ##### 4. Supprimer une voiture en panne
-**Description : ** Cette fonction permet à l'utilisateur de retirer une voiture qui est hors service ou en panne du système de location.
+****Description : **** Cette fonction permet à l'utilisateur de retirer une voiture qui est hors service ou en panne du système de location.
 
 ##### 5. Modifier la description et l'état d'une voiture
-**Description : ** Cette fonction permet à l'utilisateur de modifier les détails et l'état d'une voiture spécifique. Elle pourrait inclure la modification de la description, de la disponibilité, etc.
+****Description : **** Cette fonction permet à l'utilisateur de modifier les détails et l'état d'une voiture spécifique. Elle pourrait inclure la modification de la description, de la disponibilité, etc.
 
 ##### 6. Afficher l'historique des locations
-**Description : **Cette fonction affiche l'historique des locations passées, montrant les détails des locations antérieures effectuées par les clients.
+****Description : ****Cette fonction affiche l'historique des locations passées, montrant les détails des locations antérieures effectuées par les clients.
 
 ##### 7. Retour d'une voiture en cas de réclamation
-**Description : ** Cette fonction gère le processus de retour d'une voiture en cas de réclamation ou de problème signalé par le client.
+****Description : **** Cette fonction gère le processus de retour d'une voiture en cas de réclamation ou de problème signalé par le client.
 
 ##### 8. Afficher tous les clients qui ont loué la voiture désirée
-**Description : **Cette fonction affiche la liste de tous les clients qui ont précédemment loué une voiture spécifique. Elle pourrait inclure des détails tels que les noms des clients, les dates de location, etc.
+****Description : ****Cette fonction affiche la liste de tous les clients qui ont précédemment loué une voiture spécifique. Elle pourrait inclure des détails tels que les noms des clients, les dates de location, etc.
 
 ##### 0. Quitter
-**Description : ** Cette fonction permet à l'utilisateur de quitter l'application de location de voitures. 
+****Description : **** Cette fonction permet à l'utilisateur de quitter l'application de location de voitures. 
 
 #### Contributions
 
