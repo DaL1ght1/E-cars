@@ -1,4 +1,4 @@
-### Documentation de l'Application de Location de Voitures
+### Documentation de l'Application de Location de Voitures (E-CARS)
 
 Cette documentation offre un aperçu et un guide d'utilisation pour l'Application de Location de Voitures.
 
@@ -42,8 +42,7 @@ Pour commencer avec l'Application de Location de Voitures, suivez ces étapes :
 1. Clonez le dépôt :
 
    ```bash
-   git clone https://github.com/DaL1ght1/E-cars
-   ```
+   git clone https://github.com/DaL1ght1/E-cars.git   ```
 
 2. Naviguez vers le répertoire du projet :
 
