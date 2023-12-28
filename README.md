@@ -5,15 +5,21 @@ Cette documentation offre un aperçu et un guide d'utilisation pour l'Applicatio
 
 En effet cet application vous permet de :
 
-1. Rechercher des voitures disponibles
-2. Louer une voiture
-3. Afficher la description d'une voiture
-4. Supprimer une voiture en panne
-5. Modifier la description et l'état d'une voiture
-6. Afficher l'historique des locations
-7. Retour d'une voiture en cas de réclamation
-8. Afficher tous les clients qui ont loué la voiture désirée
-0. Quitter
+1. [Introduction](#introduction)
+2. [Fonctionnalités](#fonctionnalités)
+3. [Pour Commencer](#pour-commencer)
+4. [Utilisation](#utilisation)
+   - [1. Rechercher des voitures disponibles](#1-rechercher-des-voitures-disponibles)
+   - [2. Louer une voiture](#2-louer-une-voiture)
+   - [3. Afficher la description d'une voiture](#3-afficher-la-description-dune-voiture)
+   - [4. Supprimer une voiture en panne](#4-supprimer-une-voiture-en-panne)
+   - [5. Modifier la description et l'état d'une voiture](#5-modifier-la-description-et-letat-dune-voiture)
+   - [6. Afficher l'historique des locations](#6-afficher-lhistorique-des-locations)
+   - [7. Retour d'une voiture en cas de réclamation](#7-retour-dune-voiture-en-cas-de-reclamation)
+   - [8. Afficher tous les clients qui ont loué la voiture désirée](#8-afficher-tous-les-clients-qui-ont-loue-la-voiture-desiree)
+   - [0. Quitter](#0-quitter)
+5. [Contributions](#contributions)
+6. [Licence](#licence
  
 Pour commencer avec l'Application de Location de Voitures, suivez ces étapes :
 
